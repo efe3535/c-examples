@@ -6,7 +6,5 @@ int main(){
     printf(W0);
     printf(W1);
     printf(W2);
-
-
     return 0;
 }
